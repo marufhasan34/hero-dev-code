@@ -129,3 +129,36 @@ nav h2 {
     vertical-align: middle;
 }
 /* banner section */
+/* about section start */
+#about{
+    padding-top: 130px;
+
+}
+.about-container{
+    width: 70%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:#fff8f3 ;
+    border-radius: 10px;
+    padding: 130px 155px;
+}
+.section-heading h2{
+font-weight: 700;
+font-size: 35px;
+text-align: center;
+color: var(--dark-01);
+}
+.section-heading .padding{
+font-weight: 400;
+font-size: 18px;
+line-height: 167%;
+text-align: center;
+color: var(--dark-03);
+padding: 30px 0;
+}
+.about-info{
+    display: flex;
+    justify-content: space-around;
+}
+/* about section end */
